@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:15a82d,100:3019e1&height=180&text=hello&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:15a82d,100:3019e1&height=180&text=Hello, Welcome To DF&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 입력 </h2>  
