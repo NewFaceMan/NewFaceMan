@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:15a82d,100:3019e1&height=180&text=Hello, Welcome To DF&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:15a82d,100:3019e1&height=180&text=Hello,+I'm+Dipping!&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 입력 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 자기소개 내용 입력 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 꿈을 향해 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 디지털 포렌식의 다양한 영역을 폭넓게 배우며, 전문가로 한 걸음 더 나아갈 수 있는 소중한 기회를 만들고자 합니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
