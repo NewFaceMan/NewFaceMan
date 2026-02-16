@@ -70,6 +70,6 @@ Python 기반 AI Agent를 활용한 보안 뉴스 수집, CVE 모니터링, DFIR
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NewFaceMan&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewFaceMan&layout=compact&hide_border=true&title_color=2563EB&text_color=333" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=NewFaceMan&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NewFaceMan&theme=default" height="160"/>
 </p>
